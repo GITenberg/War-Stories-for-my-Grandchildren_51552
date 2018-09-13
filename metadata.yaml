@@ -1,0 +1,34 @@
+_repo: War-Stories-for-my-Grandchildren_51552
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foster, John Watson
+    alias: Foster, John W. (John Watson)
+    birthdate: 1836
+    deathdate: 1917
+    gutenberg_agent_id: '46467'
+    url: http://www.gutenberg.org/2009/agents/46467
+    wikipedia: https://en.wikipedia.org/wiki/John_W._Foster
+description: ''
+gutenberg_issued: '2016-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51552'
+  lccn: '19006570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States. Army. Indiana Infantry Regiment, 25th (1861-1865)'
+- !lcsh 'United States. Army. Indiana Infantry Regiment, 136th (1864)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'United States. Army. Indiana Infantry Regiment, 65th (1862-1865)'
+- GITenberg
+tableOfContents: Introduction -- The Missouri campaign -- The battle of Fort Donelson
+  -- The battle of Shiloh -- On to Corinth and Memphis -- Guerrilla warfare in Kentucky
+  -- The east Tennessee campaign -- With the hundred days men -- Appendix.
+title: War Stories for my Grandchildren
+url: http://www.gutenberg.org/ebooks/51552
